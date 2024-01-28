@@ -1,4 +1,4 @@
-# Robotics Software Engineer
+# Arunabh Bora
 
 ## Education
 - Master of Science in Robotics and Autunomous Systems at University of Lincoln (2023 -2024)
