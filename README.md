@@ -1,6 +1,6 @@
-# Arunabh Bora (https://github.com/arunabh-alt/arunabh-alt.github.io/blob/main/resources/photo.jpg)
+# Arunabh Bora 
 
-# Hi there, I'm Arunabh Bora 👋
+# Hi there, I'm ![Arunabh Bora] ((https://github.com/arunabh-alt/arunabh-alt.github.io/blob/main/resources/photo.jpg)) 👋
 
 I'm a passionate Robotics and Autonomous Systems enthusiast with a keen interest in machine learning, computer vision, and IoT. Currently pursuing my Master's degree in Robotics and Autonomous Systems at the University of Lincoln, I'm actively involved in cutting-edge research and projects aimed at pushing the boundaries of technology.
 
