@@ -1,7 +1,6 @@
 # Arunabh's Portfolio
 
-<div style="text-align:center"><img src="https://github.com/arunabh-alt/arunabh-alt.github.io/blob/main/resources/photo.jpg" alt="Arunabh" style="border-radius: 50%; width: 150px; height: 150px;"></div>
-
+Arunabh Bora 
 Welcome to my GitHub portfolio! Below you'll find details about my education, experience, projects, and skills.
 
 ---
@@ -106,6 +105,8 @@ Welcome to my GitHub portfolio! Below you'll find details about my education, ex
 ## Skills
 - Machine Learning
 - Deep Learning
+- Large Language Models
+- Gen AI
 - Computer Vision
 - Robotics
 - Python
