@@ -1,4 +1,92 @@
-title: Arunabh Bora
+#title: Arunabh Bora
 #logo: resources\photo.jpg
 #show_downloads : true
-theme: jekyll-theme-slate
+#theme: jekyll-theme-slate
+
+# Site Settings
+title: "Arunabh Bora"
+# logo: resources/photo.jpg
+# show_downloads: true
+theme: "jekyll-theme-cayman"
+
+# Theme Settings
+# Add theme-specific settings here
+
+# Site Author
+author:
+  name: "Arunabh Bora"
+  avatar: # path of avatar image
+  bio: "Your bio here."
+  location: "Your location"
+  email: "your.email@example.com"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:your.email@example.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://your-website.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/your_twitter"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/your_github"
+    # Add more social links as needed
+
+# Site Footer
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      # url:
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+exclude:
+  # Add files/directories to exclude as needed
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+# Add more conversion settings as needed
+
+# Pagination
+paginate: 5
+paginate_path: /page:num/
+# Add more pagination settings as needed
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  # Add more plugins as needed
+
+# Archives
+# Add archive settings as needed
+
+# HTML Compression
+# Add HTML compression settings as needed
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # Add more default settings as needed
+
