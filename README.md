@@ -1,23 +1,62 @@
 # Arunabh Bora
 
+## About Me
+
+I am a [Your Title] with experience in [your field/industry]. I have a passion for [mention your interests or specializations].
+
+## Experience
+
+### [Your Current Job Title]
+**[Your Current Company]**  
+*Start Date - Present*
+
+- Responsibility 1
+- Responsibility 2
+- Achievement 1
+- Achievement 2
+
+### [Your Previous Job Title]
+**[Your Previous Company]**  
+*Start Date - End Date*
+
+- Responsibility 1
+- Responsibility 2
+- Achievement 1
+- Achievement 2
+
 ## Education
-- Master of Science in Robotics and Autunomous Systems at University of Lincoln (2023 -2024)
-- BTech in Electronics and Communication Engineering at Gauhati University (2018- 2022)
 
-## Experince 
-- Graduate Student Researcher [ Lincoln Centre for Autonomous Systems (L-CAS) ] 
-  - As a Graduate Student Researcher at the Lincoln Centre for Autonomous Systems, active contributions are
-being made by me to the development of a multitasking robot scheduled for the upcoming Robocup 2024 at
-Eindhoven University of Technology in the Netherlands. Responsibilities encompass the training of the robot
-to identify and manipulate various objects through the implementation of Convolutional Neural Networks
-(CNN). Additionally, involvement in the integration of Natural Language Processing (NLP) techniques is
-evident, where voice data from human interaction is received and converted into text, enhancing the robot’s
-ability to interact seamlessly with users. This experience has allowed the application of expertise in machine
-learning and artificial intelligence to real-world robotics challenges, demonstrating a commitment to advancing
-autonomous systems technology.Visit the official website - https://lcastor.blogs.lincoln.ac.uk/
-- Lincoln Award Employer Project Intern [ University Of Lincoln Careers & Employability ] 
-  - I'm currently collaborating with a team of fellow students, through a University of Lincoln Career Management initiative, on a client-based project for Ashlin Farm Barns, a Lincoln-based establishment. We're actively conducting comprehensive competitor research and assessing the viability of implementing electric vehicle charging points for both staff and guests.
+### [Your Degree]
+**[Your University]**  
+*Graduation Date*
 
-- Managed Network Expert Electrical Engineering [ Chegg India ] 
-  - Directly collaborated with Chegg student users, offering expertise in Electrical/Electronics Engineering. Addressed daily queries on Chegg Q&A, providing solutions with clear explanations and step-by-step processes, with a major focus on Control System & Network Theory
+- Relevant coursework or achievements
+
+## Skills
+
+- Skill 1
+- Skill 2
+- Skill 3
+- Skill 4
+
+## Projects
+
+### [Project Title]
+[Project Link](URL)  
+*Brief description of the project and your role*
+
+### [Another Project Title]
+[Project Link](URL)  
+*Brief description of the project and your role*
+
+## Certifications
+
+- [Certification Name](URL) - Issuing Organization
+- [Another Certification Name](URL) - Issuing Organization
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/arunabhbora/)
+- [Email](mailto:your-email@example.com)
+
 
