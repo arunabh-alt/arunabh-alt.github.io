@@ -11,6 +11,7 @@ Welcome to my GitHub portfolio! Below you'll find details about my education, ex
 - [Projects](#projects)
 - [Skills](#skills)
 - [Research Paper Publication](#publication)
+- Social Media(#socialmedia)
 
 ---
 
@@ -120,7 +121,12 @@ Welcome to my GitHub portfolio! Below you'll find details about my education, ex
 - Front-End Development
 
 ## Publication
-- First Author First Author, [Conference](https://ieeexplore.ieee.org/document/10066077) - "Monitoring and Control of Water Requirements as Part of an Agricultural Management System using Internet of Things (IoT)," 2022 7th International Conference on Mathematics and Computers in Sciences and Industry (MCSI), Athens, Greece, 2022, pp. 115-120, doi: 10.1109/MCSI55933.2022.00025.
-- Co-Author, [Journal](https://www.nature.com/articles/s41598-023-49186-y) - "An intelligent agriculture management system for rainfall prediction and fruit health monitoring." Scientific Report 14, 512 (2024). Nature. doi.org/10.1038/s41598-023-49186-y
+- **First Author**, [Conference](https://ieeexplore.ieee.org/document/10066077) - "Monitoring and Control of Water Requirements as Part of an Agricultural Management System using Internet of Things (IoT)," 2022 7th International Conference on Mathematics and Computers in Sciences and Industry (MCSI), Athens, Greece, 2022, pp. 115-120, doi: 10.1109/MCSI55933.2022.00025.
+- **Co-Author**, [Journal](https://www.nature.com/articles/s41598-023-49186-y) - "An intelligent agriculture management system for rainfall prediction and fruit health monitoring." Scientific Report 14, 512 (2024). Nature. doi.org/10.1038/s41598-023-49186-y
 
+## Contact Profile
+- [LinkedIn](https://www.linkedin.com/in/arunabhbora/)
+- [Google Scholar](https://scholar.google.com/citations?user=dENBUoIAAAAJ&hl=en&oi=ao)
+
+  
 Feel free to reach out to me for collaboration or any inquiries!
