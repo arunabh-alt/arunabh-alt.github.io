@@ -27,7 +27,9 @@ Welcome to my GitHub portfolio! Below you'll find details about my education, ex
 
 ### Oxford Machine Learning Summer School Intern
 - **University of Oxford** (May 2024)
-  - Assisted in deep learning and machine learning projects.
+  - Accepted into the Machine Learning Fundamentals course offered by the Oxford Machine Learning Summer School.
+  -  Gained knowledge of Deep Neural Networks (DNNs), various optimization techniques, deep learning modelcomplexities, and CUDA optimizations.
+  -  Gained hands-on experience with Generative AI techniques (Transformer, Diffusion, Stable Diffusion). Also attendedlectures on Reinforcement Learning with Human Feedback, NLP Optimization, and Transfer Learning.
 
 ### Lincoln Award Employer Project Intern
 - **University of Lincoln Careers & Employability** (Feb 2024 - Apr 2024)
