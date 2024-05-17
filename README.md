@@ -1,6 +1,6 @@
 # Arunabh's Portfolio
 
-Arunabh Bora 
+Hey I'm Arunabh Bora,  
 Welcome to my GitHub portfolio! Below you'll find details about my education, experience, projects, and skills.
 
 ---
@@ -10,7 +10,7 @@ Welcome to my GitHub portfolio! Below you'll find details about my education, ex
 - [Education](#education)
 - [Projects](#projects)
 - [Skills](#skills)
-- [GitHub Contributions](#github-contributions)
+- [Research Paper Publication](#publication)
 
 ---
 
@@ -119,8 +119,8 @@ Welcome to my GitHub portfolio! Below you'll find details about my education, ex
 - Natural Language Processing (NLP)
 - Front-End Development
 
-## GitHub Contributions
-- Contributor to [whiskey-friskey](https://github.com/benjamin-nicholls/whiskey-friskey): See 'Projects' tab for Kanban board.
-- Contributor to [Pothole-Detection-Assignment-By-Arunabh](https://github.com/arunabh-alt/Pothole-Detection-Assignment-By-Arunabh): This repository contains a ROS2 framework project to detect and count potholes in a robotic simulation.
+## Publication
+- First Author First Author, [Conference](https://ieeexplore.ieee.org/document/10066077) - "Monitoring and Control of Water Requirements as Part of an Agricultural Management System using Internet of Things (IoT)," 2022 7th International Conference on Mathematics and Computers in Sciences and Industry (MCSI), Athens, Greece, 2022, pp. 115-120, doi: 10.1109/MCSI55933.2022.00025.
+- Co-Author, [Journal](https://www.nature.com/articles/s41598-023-49186-y) - "An intelligent agriculture management system for rainfall prediction and fruit health monitoring." Scientific Report 14, 512 (2024). Nature. doi.org/10.1038/s41598-023-49186-y
 
 Feel free to reach out to me for collaboration or any inquiries!
