@@ -1,4 +1,4 @@
-# Arunabh Bora ()
+# Arunabh Bora (https://github.com/arunabh-alt/arunabh-alt.github.io/blob/main/resources/photo.jpg)
 
 # Hi there, I'm Arunabh Bora 👋
 
