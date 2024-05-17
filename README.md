@@ -11,7 +11,7 @@ Welcome to my GitHub portfolio! Below you'll find details about my education, ex
 - [Projects](#projects)
 - [Skills](#skills)
 - [Research Paper Publication](#publication)
-- Social Media(#socialmedia)
+- [Contact Profile](#contactprofile)
 
 ---
 
@@ -58,11 +58,12 @@ Welcome to my GitHub portfolio! Below you'll find details about my education, ex
     - Research Methods
   - **Term 3:**
     - Frontiers of Robotics Research
-    - Research Project
+    - Research Project (Master Thesis: Effects of Large Language Models for Task-Oriented Chatbot Learning)
 
 ### Gauhati University
 - **BTech - Bachelor of Technology, Electronics and Communications Engineering** (2018 - 2022)
   - Activities and societies: Technical Member at Robotics Club
+  - The bachelor thesis project's conference paper was showcased at the 7th International Conference on Mathematics and Computers in Science and Industry (MCSI) held in Athens, Greece, in 2022. It was published by IEEE. Additionally, an extended research journal was also published by one of the most esteemed publishing companies, Nature's Scientific Reports. The project comprised two distinct components: the IoT and embedded systems aspect, which was published by IEEE, and the core machine learning and web development segment, which found publication in Nature.
 
 ## Projects
 
